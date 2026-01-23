@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ajay Hire 👋
 
-<!--
-**ajay-hire/ajay-hire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Final Year Student  
+💻 Aspiring Full Stack Web Developer  
+📍 Maharashtra, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a BCA final-year student currently learning full stack web development.  
+I enjoy building simple web projects and improving my skills through hands-on practice.
+
+---
+
+## 🛠️ Skills
+- HTML5  
+- CSS3  
+- JavaScript (Basics)  
+- Tailwind CSS  
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 📂 Projects
+### 🔹 Contact Form with EmailJS
+- Simple web-based contact form  
+- Sends form data to the entered email address  
+- Technologies: HTML, CSS, JavaScript, EmailJS  
+
+🔗 Repository: https://github.com/ajay-hire/contact-form
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/ajay-hire  
+- Email: ajayhire3141@gmail.com
