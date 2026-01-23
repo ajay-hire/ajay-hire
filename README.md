@@ -28,7 +28,7 @@ I enjoy building simple web projects and improving my skills through hands-on pr
 - Sends form data to the entered email address  
 - Technologies: HTML, CSS, JavaScript, EmailJS  
 
-🔗 Repository: https://github.com/ajay-hire/contact-form
+🔗 Repository: https://github.com/ajay-hire/basic-contact-form
 
 ---
 
