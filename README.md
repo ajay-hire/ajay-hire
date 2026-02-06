@@ -2,7 +2,7 @@
 
 🎓 BCA Final Year Student  
 💻 Aspiring Full Stack Web Developer  
-📍 Maharashtra, India  
+📍 Mumbai, Maharashtra 
 
 ---
 
@@ -16,19 +16,15 @@ I enjoy building simple web projects and improving my skills through hands-on pr
 - HTML5  
 - CSS3  
 - JavaScript (Basics)  
-- Tailwind CSS  
+- Tailwind CSS
+- React (Learning)  
 - Git & GitHub  
 - VS Code  
 
 ---
 
 ## 📂 Projects
-### 🔹 Contact Form with EmailJS
-- Simple web-based contact form  
-- Sends form data to the entered email address  
-- Technologies: HTML, CSS, JavaScript, EmailJS  
 
-🔗 Repository: https://github.com/ajay-hire/basic-contact-form
 
 ---
 
